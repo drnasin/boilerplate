@@ -1,0 +1,13 @@
+{
+    "name": "drnasin/boilerplate",
+    "description": "My personal boilerplate and directory structure",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ante Drnasin",
+            "email": "ante@caan.si"
+        }
+    ],
+    "require": {}
+}
