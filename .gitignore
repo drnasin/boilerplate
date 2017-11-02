@@ -1,5 +1,5 @@
 vendor
 public/vendor/*
-storage/*
+storage/
 .idea
-main.min.css
+public/assets/css/main.min.css
