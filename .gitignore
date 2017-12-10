@@ -2,4 +2,4 @@ vendor
 public/vendor/*
 storage/
 .idea
-public/assets/css/main.min.css
+public/assets/css-compiled/*
