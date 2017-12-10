@@ -1,5 +1,4 @@
 vendor
-public/vendor/*
-storage/
+storage
 .idea
 public/assets/css-compiled/*
