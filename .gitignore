@@ -2,6 +2,5 @@ vendor
 storage
 .idea
 node_modules
-yarn.lock
 public/assets/css/main.min.css
 public/assets/css/main.min.css.map
