@@ -9,7 +9,9 @@
             "email": "ante@caan.si"
         }
     ],
-    "require": {},
+    "require": {
+      "php" : ">= 7.2"
+    },
     "require-dev": {
         "phpunit/phpunit": "^7"
     },
@@ -24,6 +26,6 @@
         }
     },
     "scripts": {
-        "test": "bin/phpunit -c tests/phpunit.xml"
+        "test": "php bin/phpunit.phar -c tests/phpunit.xml"
     }
 }
